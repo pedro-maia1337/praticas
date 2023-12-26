@@ -1,0 +1,9 @@
+body{
+    background: url(espaco.jpg) no-repeat top center/cover fixed;
+}
+
+#conteiner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
